@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I'm Abhishek Maske  <br><br>BTech III CSE | Frontend | Python | DSA | AI/ML  <br><br>- 🌐 Learning frontend fundamentals (HTML, CSS, JS)  <br>- 🧠 Practicing DSA for strong problem-solving  <br>- 🐍 Working with Python for artificial intelligence & Machine learning b  <br>- 🤖 Exploring AI/ML concepts through hands-on projects  <br><br>Focused on building skills, not hype.<br>
+👋 Hi, I'm Abhishek Maske  <br><br>BTech III CSE | Frontend | Python | DSA | AI/ML  <br><br>- 🌐 Learning frontend fundamentals (HTML, CSS, JS)  <br>- 🧠 Practicing DSA for strong problem-solving  <br>- 🐍 Working with Python for artificial intelligence & Machine learning b  <br>- 🤖 Learning AI/ML concepts through hands-on projects  <br><br>Focused on building skills, not hype.<br>
 
 
 ## 🌐 Socials:
